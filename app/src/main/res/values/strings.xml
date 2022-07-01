@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NOTED</string>
+    <string name="use_pin">Unlock using pin</string>
+    <string name="msg">Place your finger on the scanner to unlock</string>
+</resources>
